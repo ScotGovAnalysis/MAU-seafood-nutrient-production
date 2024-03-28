@@ -35,4 +35,4 @@ For those species that had an 'unknown substantial amount' denoted by N in CoFID
 
 ## License
 
-The methodology and code is published to facilitate feedback from the public and enable collaboration with researchers at one of our Main Research Providers - or beyond. This repository is available under the [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+The methodology and code is published to facilitate feedback and enable collaboration with researchers at our Main Research Providers and beyond. This repository is available under the [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
