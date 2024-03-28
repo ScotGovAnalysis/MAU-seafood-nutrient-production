@@ -1,0 +1,14 @@
+﻿Simple edible fractions for use as fallback options when no specific edible fraction are available for a given species - based loosely on Hillborn et al 2018,,,Manually matched to:,
+fao_group,fao_prep,edible_fraction,CG_code,CG_descr
+FRESHWATER DIADROMOUS FISH,FRESH,0.4,1,Freshwater fish
+FRESHWATER DIADROMOUS FISH,FRESH,0.6,2,Salmonids
+DEMERSAL FISH,FRESH,0.5,3,Groundfish
+DEMERSAL FISH,FRESH,0.45,4,Flatfish
+PELAGIC FISH,FRESH,0.5,5,Small pelagics
+PELAGIC FISH,FRESH,0.5,6,Tuna and tuna-like species
+MARINE FISH NES,FRESH,0.5,7,Other marine fish
+CRUSTACEANS,FRESH,0.45,8,Crustaceans
+MOLLUSCS,FRESH,0.3,10,Bivalves and other molluscs and aquatic invertebrates
+CEPHALOPODS,FRESH,0.8,9,Cephalopods
+AQUATIC MAMMALS,MEAT,0.5,11,Miscellaneous aquatic products
+AQUATIC PLANTS,,0.5,12,Non-food use

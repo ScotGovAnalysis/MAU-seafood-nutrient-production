@@ -1,0 +1,166 @@
+nutrient,has_micronutrient_data,source,Approximated,Count
+biotin_µg_per_100g,FALSE,NA,NA,12037
+biotin_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+biotin_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+biotin_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+biotin_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+calcium_mg_per_100g,FALSE,NA,NA,12037
+calcium_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+calcium_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+calcium_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+calcium_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+carotene_µg_per_100g,FALSE,NA,NA,12037
+carotene_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+carotene_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+carotene_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+carotene_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+chloride_mg_per_100g,FALSE,NA,NA,12037
+chloride_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+chloride_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+chloride_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+chloride_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+copper_mg_per_100g,FALSE,NA,NA,12037
+copper_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+copper_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+copper_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+copper_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+fat_g_per_100g,FALSE,NA,NA,12037
+fat_g_per_100g,TRUE,CoFID (2021),FALSE,20
+fat_g_per_100g,TRUE,CoFID (2021),TRUE,970
+fat_g_per_100g,TRUE,Robinson et al (2022),FALSE,12
+fat_g_per_100g,TRUE,Robinson et al (2022),TRUE,176
+folate_µg_per_100g,FALSE,NA,NA,12037
+folate_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+folate_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+folate_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+folate_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+iodine_µg_per_100g,FALSE,NA,NA,12037
+iodine_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+iodine_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+iodine_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+iodine_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+iron_mg_per_100g,FALSE,NA,NA,12037
+iron_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+iron_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+iron_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+iron_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+kcal_per_100g,FALSE,NA,NA,12037
+kcal_per_100g,TRUE,CoFID (2021),FALSE,20
+kcal_per_100g,TRUE,CoFID (2021),TRUE,970
+kcal_per_100g,TRUE,Robinson et al (2022),FALSE,12
+kcal_per_100g,TRUE,Robinson et al (2022),TRUE,176
+magnesium_mg_per_100g,FALSE,NA,NA,12037
+magnesium_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+magnesium_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+magnesium_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+magnesium_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+manganese_mg_per_100g,FALSE,NA,NA,12037
+manganese_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+manganese_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+manganese_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+manganese_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+niacin_equivalent_mg_per_100g,FALSE,NA,NA,12037
+niacin_equivalent_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+niacin_equivalent_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+niacin_equivalent_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+niacin_equivalent_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+niacin_mg_per_100g,FALSE,NA,NA,12037
+niacin_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+niacin_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+niacin_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+niacin_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+omega3_g_per_100g,FALSE,NA,NA,12037
+omega3_g_per_100g,TRUE,CoFID (2021),FALSE,20
+omega3_g_per_100g,TRUE,CoFID (2021),TRUE,970
+omega3_g_per_100g,TRUE,Robinson et al (2022),FALSE,12
+omega3_g_per_100g,TRUE,Robinson et al (2022),TRUE,176
+pantothenate_mg_per_100g,FALSE,NA,NA,12037
+pantothenate_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+pantothenate_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+pantothenate_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+pantothenate_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+phosphorus_mg_per_100g,FALSE,NA,NA,12037
+phosphorus_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+phosphorus_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+phosphorus_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+phosphorus_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+potassium_mg_per_100g,FALSE,NA,NA,12037
+potassium_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+potassium_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+potassium_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+potassium_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+protein_g_per_100g,FALSE,NA,NA,12037
+protein_g_per_100g,TRUE,CoFID (2021),FALSE,20
+protein_g_per_100g,TRUE,CoFID (2021),TRUE,970
+protein_g_per_100g,TRUE,Robinson et al (2022),FALSE,12
+protein_g_per_100g,TRUE,Robinson et al (2022),TRUE,176
+retinol_equivalent_µg_per_100g,FALSE,NA,NA,12037
+retinol_equivalent_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+retinol_equivalent_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+retinol_equivalent_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+retinol_equivalent_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+retinol_µg_per_100g,FALSE,NA,NA,12037
+retinol_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+retinol_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+retinol_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+retinol_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+riboflavin_mg_per_100g,FALSE,NA,NA,12037
+riboflavin_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+riboflavin_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+riboflavin_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+riboflavin_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+selenium_µg_per_100g,FALSE,NA,NA,12037
+selenium_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+selenium_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+selenium_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+selenium_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+sodium_mg_per_100g,FALSE,NA,NA,12037
+sodium_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+sodium_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+sodium_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+sodium_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+thiamin_mg_per_100g,FALSE,NA,NA,12037
+thiamin_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+thiamin_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+thiamin_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+thiamin_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+tryptophan/60_mg_per_100g,FALSE,NA,NA,12037
+tryptophan/60_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+tryptophan/60_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+tryptophan/60_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+tryptophan/60_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+vitamin_b12_µg_per_100g,FALSE,NA,NA,12037
+vitamin_b12_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+vitamin_b12_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+vitamin_b12_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+vitamin_b12_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+vitamin_b6_mg_per_100g,FALSE,NA,NA,12037
+vitamin_b6_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+vitamin_b6_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+vitamin_b6_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+vitamin_b6_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+vitamin_c_mg_per_100g,FALSE,NA,NA,12037
+vitamin_c_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+vitamin_c_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+vitamin_c_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+vitamin_c_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+vitamin_d_µg_per_100g,FALSE,NA,NA,12037
+vitamin_d_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+vitamin_d_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+vitamin_d_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+vitamin_d_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+vitamin_e_mg_per_100g,FALSE,NA,NA,12037
+vitamin_e_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+vitamin_e_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+vitamin_e_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+vitamin_e_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+vitamin_k1_µg_per_100g,FALSE,NA,NA,12037
+vitamin_k1_µg_per_100g,TRUE,CoFID (2021),FALSE,20
+vitamin_k1_µg_per_100g,TRUE,CoFID (2021),TRUE,970
+vitamin_k1_µg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+vitamin_k1_µg_per_100g,TRUE,Robinson et al (2022),TRUE,176
+zinc_mg_per_100g,FALSE,NA,NA,12037
+zinc_mg_per_100g,TRUE,CoFID (2021),FALSE,20
+zinc_mg_per_100g,TRUE,CoFID (2021),TRUE,970
+zinc_mg_per_100g,TRUE,Robinson et al (2022),FALSE,12
+zinc_mg_per_100g,TRUE,Robinson et al (2022),TRUE,176

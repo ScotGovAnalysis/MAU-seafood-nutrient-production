@@ -1,0 +1,14 @@
+﻿"Recommended daily nutrient intakes for adults aged 19-64 (male/female average) [19-50 for female iron recommendation]. PHE 2016 https://assets.publishing.service.gov.uk/media/5a749fece5274a44083b82d8/government_dietary_recommendations.pdf, EFSA 2010 https://www.efsa.europa.eu/en/efsajournal/pub/1461",,,,
+variable,target_source,target_pp_pd_avg,target_pp_pd_m,target_pp_pd_f
+kcal,PHE (2016),2250,2500,2000
+protein_g,PHE (2016),50.25,55.5,45
+fat_g,PHE (2016),87.5,97,78
+omega3_g,EFSA (2010),0.25,0.25,0.25
+iodine_µg,PHE (2016),140,140,140
+vitamin_d_µg,PHE (2016),10,10,10
+iron_mg,PHE (2016),11.75,8.7,14.8
+zinc_mg,PHE (2016),8.25,9.5,7
+calcium_mg,PHE (2016),700,700,700
+vitamin_b12_µg,PHE (2016),1.5,1.5,1.5
+vitamin_a_µg,PHE (2016),650,700,600
+selenium_µg,PHE (2016),67.5,75,60

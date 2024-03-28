@@ -1,0 +1,27 @@
+﻿"Robinson et al 2022, available from: https://github.com/jpwrobinson/UKSeafood/blob/main/data/UK_GHG_nutrient_catch.csv",,,,,,,Manually matched to:,,
+species,common_name,scientific_name,farmed_wild,nutrient_source,group,edible_fraction,ERSCode,MCS_code,MCS_descr
+Salmon,Atlantic salmon,Salmo salar,Farmed,Species-level,"Salmons, trouts, smelts",49.3,SAL,9,Salmon
+Mackerel,Atlantic mackerel,Scomber scombrus,Wild,Species-level,Miscellaneous pelagic fishes,61,MAC,38,Mackerel
+Cod,Atlantic cod,Gadus morhua,Wild,Species-level,"Cods, hakes, haddocks",50,COD,13,Cod
+"Tuna, skipjack",Skipjack tuna,Katsuwonus pelamis,Wild,Species-level,"Tunas, bonitos, billfishes",64.2,SKJ,44,"Tuna, skipjack"
+Haddock,Haddock,Melanogrammus aeglefinus,Wild,Species-level,"Cods, hakes, haddocks",49.3,HAD,15,Haddock
+Herring,Atlantic herring,Clupea harengus,Wild,Species-level,"Herrings, sardines, anchovies",61,HER,36,Herring
+"Shrimp, miscellaneous","Shrimp, miscellaneous","Shrimp, miscellaneous",Farmed, ,"Shrimps, prawns",57.33333333,,71,"Shrimp, miscellaneous"
+"Shrimp, miscellaneous","Shrimp, miscellaneous","Shrimp, miscellaneous",Wild, ,"Shrimps, prawns",54.5625,,71,"Shrimp, miscellaneous"
+"Shrimp, warmwater","Shrimp, warmwater","Shrimp, warmwater",Farmed, ,"Shrimps, prawns",58,,70,"Shrimp, warmwater"
+"Shrimp, warmwater","Shrimp, warmwater","Shrimp, warmwater",Farmed, ,"Shrimps, prawns",57,,70,"Shrimp, warmwater"
+"Shrimp, warmwater","Shrimp, warmwater","Shrimp, warmwater",Wild, ,"Shrimps, prawns",57.2,,70,"Shrimp, warmwater"
+Alaska pollock,Alaska pollock,Gadus chalcogrammus,Wild,Species-level,"Cods, hakes, haddocks",38,ALK,87,Alaska pollock
+"Lobster, Norway",Norway lobster,Nephrops norvegicus,Wild,Species-level,"Lobsters, spiny-rock lobsters",25,NEP,67,"Lobster, Norway"
+Scallop,Queen scallop,Aequipecten opercularis,Wild,Family-level,"Scallops, pectens",12.1,QSC,78,Scallop
+Sea mussels,Blue mussel,Mytilus edulis,Farmed,Species-level,Mussels,26,MUS,92,Mussel Mytilus spp.
+Sea mussels,Blue mussel,Mytilus edulis,Wild,Species-level,Mussels,26,MUS,92,Mussel Mytilus spp.
+Trout,Rainbow trout,Oncorhynchus mykiss,Farmed,Species-level,"Salmons, trouts, smelts",49.3,TRR,10,Trout
+Trout,Sea trout,Salmo trutta,Farmed,Species-level,"Salmons, trouts, smelts",57.4,TRS,10,Trout
+Ling,Ling,Molva molva,Wild,Species-level,"Cods, hakes, haddocks",52.5,LIN,17,Ling
+Pacific cupped oyster,Pacific cupped oyster,Crassostrea gigas,Farmed,Species-level,Oysters,10,OYG,79,Oyster
+Pacific cupped oyster,Pacific cupped oyster,Crassostrea gigas,Wild,Species-level,Oysters,10,OYG,79,Oyster
+Turbot,Turbot,Scophthalmus maximus,Farmed,Species-level,"Flounders, halibuts, soles",43,TUR,32,Turbot
+Swordfish,Swordfish,Xiphias gladius,Wild,Species-level,"Tunas, bonitos, billfishes",67.9,SWO,45,Swordfish
+Arctic char,Arctic char,Salvelinus alpinus,Farmed,Species-level,"Salmons, trouts, smelts",49.3,ACH,11,Other salmonids
+Cobia,Cobia,Rachycentron canadum,Farmed,Species-level,Miscellaneous pelagic fishes,43,CBA,88,Cobia

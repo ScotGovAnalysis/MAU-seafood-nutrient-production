@@ -1,0 +1,14 @@
+﻿"FAO Food Supply Balance Handbook 2001 - Annex I - Food composition in terms of the retail weight (""as purchased"") in 100 grams",,,,,Manually matched to:,
+fao_group,fao_prep,kcal,protein,fat,CG_code,CG_descr
+FRESHWATER DIADROMOUS FISH,FRESH,69,10.9,2.5,1,Freshwater fish
+FRESHWATER DIADROMOUS FISH,FRESH,69,10.9,2.5,2,Salmonids
+DEMERSAL FISH,FRESH,42,8.3,0.8,3,Groundfish
+DEMERSAL FISH,FRESH,42,8.3,0.8,4,Flatfish
+PELAGIC FISH,FRESH,86,12.6,3.6,5,Small pelagics
+PELAGIC FISH,FRESH,86,12.6,3.6,6,Tuna and tuna-like species
+MARINE FISH NES,FRESH,64,10.3,2.2,7,Other marine fish
+CRUSTACEANS,FRESH,47,9.3,0.5,8,Crustaceans
+MOLLUSCS,FRESH,15,2.3,0.2,10,Bivalves and other molluscs and aquatic invertebrates
+CEPHALOPODS,FRESH,66,13.5,0.7,9,Cephalopods
+AQUATIC MAMMALS,MEAT,136,21,5,11,Miscellaneous aquatic products
+AQUATIC PLANTS,,54,2.8,0.6,12,Non-food use

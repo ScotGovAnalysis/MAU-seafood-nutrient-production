@@ -1,0 +1,263 @@
+Food Code,Food Name,fixed_name,ISSCAAP_Division_Code,ISSCAAP_Division_Desc,ISSCAAP_Group_Code,ISSCAAP_Group_Desc,ERSCode,ScientificName,EnglishName,CG_code,CG_descr,MCS_code,MCS_descr,Approximated
+16-001,Ayr ,Ayr,1,Freshwater fishes,13,Miscellaneous freshwater fishes,BGA,Sperata aor,Long-whiskered catfish,1,Freshwater fish,8,Other freshwater fish,FALSE
+16-169,Bacha ,Bacha,1,Freshwater fishes,13,Miscellaneous freshwater fishes,EUV,Eutropiichthys vacha,NA,1,Freshwater fish,8,Other freshwater fish,FALSE
+16-385,Bass sea  ,Seabass,3,Marine fishes,33,Miscellaneous coastal fishes,,,,7,Other marine fish,59,"Seabass, other",TRUE
+16-385,Bass sea  ,Seabass,3,Marine fishes,33,Miscellaneous coastal fishes,,,,7,Other marine fish,95,"Seabass, European",TRUE
+16-464,Bass sea   weighed with bones and skin,REMOVE,,,,,,,,,,,,
+16-003,Bele ,Bele ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,GOU,Glossogobius giuris,Tank goby,1,Freshwater fish,8,Other freshwater fish,FALSE
+16-004,Boal ,Boal ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,WAA,Wallago attu,Wallago,1,Freshwater fish,8,Other freshwater fish,FALSE
+16-006,Bream Sea ,Seabream,3,Marine fishes,33,Miscellaneous coastal fishes,,,,7,Other marine fish,50,"Seabream, gilthead",TRUE
+16-006,Bream Sea ,Seabream,3,Marine fishes,33,Miscellaneous coastal fishes,,,,7,Other marine fish,51,"Seabream, other",TRUE
+16-172,Carp ,Carp,1,Freshwater fishes,11,"Carps, barbels and other cyprinids",,,,1,Freshwater fish,1,Carp,TRUE
+16-007,Catfish ,Catfish,1,Freshwater fishes,13,Miscellaneous freshwater fishes,,,,1,Freshwater fish,96,Freshwater catfish,TRUE
+16-011,Chital ,Chital,1,Freshwater fishes,13,Miscellaneous freshwater fishes,NCC,Chitala chitala,Clown knifefish,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-372,Cod  ,Cod,3,Marine fishes,32,"Cods, hakes, haddocks",,,,3,Groundfish,13,Cod,TRUE
+16-491,Cod  salted and smoked ,REMOVE,,,,,,,,,,,,
+16-383,Coley  ,Coley,3,Marine fishes,32,"Cods, hakes, haddocks",POK,Pollachius virens,Saithe(=Pollock),3,Groundfish,21,Saithe (=Coalfish),FALSE
+16-235,Crayfish ,Crayfish ,4,Crustaceans,41,Freshwater crustaceans,,,,8,Crustaceans,65,Freshwater crayfish,TRUE
+16-254,Cuttlefish ,Cuttlefish ,5,Molluscs,57,"Squids, cuttlefishes, octopuses",,,,9,Cephalopods,73,Cuttlefish,TRUE
+16-038,Dab ,Dab ,3,Marine fishes,31,"Flounders, halibuts, soles",,,,4,Flatfish,26,Dab,TRUE
+16-039,Dover sole ,Dover sole ,3,Marine fishes,31,"Flounders, halibuts, soles",MIP,Microstomus pacificus,Dover sole,4,Flatfish,31,"Sole, other",FALSE
+16-035,Eel conger  ,REMOVE,3,Marine fishes,34,Miscellaneous demersal fishes,COE,Conger conger,European conger,3,Groundfish,24,Other groundfish,FALSE
+16-173,Eel yellow ,Yellow eel,3,Marine fishes,34,Miscellaneous demersal fishes,COE,Conger conger,European conger,3,Groundfish,24,Other groundfish,FALSE
+16-040,Flounder ,Flounder,3,Marine fishes,31,"Flounders, halibuts, soles",FLE,Platichthys flesus,European flounder,4,Flatfish,94,"Flounder, European",TRUE
+16-043,Flying fish ,Flying fish,3,Marine fishes,37,Miscellaneous pelagic fishes,FLY,Exocoetidae,Flyingfishes nei,7,Other marine fish,62,Other marine fish,FALSE
+16-062,Haddock coated in crumbs frozen ,REMOVE,,,,,,,,,,,,
+16-375,Haddock  ,Haddock  ,3,Marine fishes,32,"Cods, hakes, haddocks",HAD,Melanogrammus aeglefinus,Haddock,3,Groundfish,15,Haddock,FALSE
+16-492,Haddock  smoked ,REMOVE,,,,,,,,,,,,
+16-070,Hake  ,Hake  ,3,Marine fishes,32,"Cods, hakes, haddocks",,,,3,Groundfish,16,Hake,TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",HAL,Hippoglossus hippoglossus,Atlantic halibut,4,Flatfish,93,"Halibut, Atlantic",TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",HAP,Hippoglossus stenolepis,Pacific halibut,4,Flatfish,28,"Halibut, other",TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",GHL,Reinhardtius hippoglossoides,Greenland halibut,4,Flatfish,91,"Halibut, Greenland",TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",EPW,Eopsetta grigorjewi,Shotted halibut,7,Other marine fish,62,Other marine fish,TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",VSV,Verasper variegatus,Spotted halibut,7,Other marine fish,62,Other marine fish,TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",HAI,Psettodes erumei,Indian halibut,4,Flatfish,28,"Halibut, other",TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",BAH,Paralichthys olivaceus,Bastard halibut,4,Flatfish,28,"Halibut, other",TRUE
+16-073,Halibut  ,Halibut  ,3,Marine fishes,31,"Flounders, halibuts, soles",BAX,Paralichthys spp,Bastard halibuts nei,4,Flatfish,28,"Halibut, other",TRUE
+16-175,Herring  ,Herring  ,3,Marine fishes,35,"Herrings, sardines, anchovies",,,,5,Small pelagics,36,Herring,TRUE
+16-184,Hilsa ,Hilsa ,2,Diadromous fishes,24,Shads,HIL,Tenualosa ilisha,Hilsa shad,5,Small pelagics,40,Miscellaneous small pelagics,FALSE
+16-078,Hoki ,Hoki ,3,Marine fishes,32,"Cods, hakes, haddocks",GRN,Macruronus novaezelandiae,Blue grenadier,3,Groundfish,14,Grenadier,FALSE
+16-185,Jackfish ,Jackfish ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,FPI,Esox lucius,Northern pike,1,Freshwater fish,5,Pike,FALSE
+16-080,John Dory ,John Dory ,3,Marine fishes,34,Miscellaneous demersal fishes,,,,7,Other marine fish,53,John dory,TRUE
+16-081,Kalabasu ,Kalabasu ,1,Freshwater fishes,11,"Carps, barbels and other cyprinids",LCB,Labeo calbasu,Orangefin labeo,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-186,Katla ,Katla ,1,Freshwater fishes,11,"Carps, barbels and other cyprinids",CTT,Gibelion catla,Catla,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-379,Lemon sole  ,Lemon sole  ,3,Marine fishes,31,"Flounders, halibuts, soles",LEM,Microstomus kitt,Lemon sole,4,Flatfish,31,"Sole, other",FALSE
+16-091,Ling ,Ling ,3,Marine fishes,32,"Cods, hakes, haddocks",,,,3,Groundfish,17,Ling,TRUE
+16-393,Mackerel  ,Mackerel  ,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,5,Small pelagics,38,Mackerel,TRUE
+16-092,Monkfish  ,Monkfish  ,3,Marine fishes,34,Miscellaneous demersal fishes,,,,7,Other marine fish,54,Monk,TRUE
+16-095,Mullet Grey  ,Grey mullet,3,Marine fishes,33,Miscellaneous coastal fishes,MUF,Mugil cephalus,Flathead grey mullet,7,Other marine fish,62,Other marine fish,FALSE
+16-098,Mullet Red  ,Red mullet,3,Marine fishes,33,Miscellaneous coastal fishes,,,,7,Other marine fish,57,Red mullet,TRUE
+16-497,Mussels ,Mussels ,5,Molluscs,54,Mussels,,,,10,Bivalves and other molluscs and aquatic invertebrates,77,"Mussel, other",TRUE
+,Mussels ,Mussels ,5,Molluscs,54,Mussels,,,,10,Bivalves and other molluscs and aquatic invertebrates,92,Mussel Mytilus spp.,TRUE
+16-259,Octopus ,Octopus ,5,Molluscs,57,"Squids, cuttlefishes, octopuses",,,,9,Cephalopods,74,Octopus,TRUE
+16-199,Orange roughy ,Orange roughy ,3,Marine fishes,34,Miscellaneous demersal fishes,ORY,Hoplostethus atlanticus,Orange roughy,7,Other marine fish,62,Other marine fish,FALSE
+16-260,Oysters ,Oysters ,5,Molluscs,53,Oysters,,,,10,Bivalves and other molluscs and aquatic invertebrates,79,Oyster,TRUE
+16-261,Oysters  weighed with shells,REMOVE,,,,,,,,,,,,
+16-382,Pangasius  ,Pangasius  ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,,,,1,Freshwater fish,4,Pangasius,TRUE
+16-101,Parrot fish ,Parrotfish,1,Freshwater fishes,13,Miscellaneous freshwater fishes,OMP,Hippopotamyrus discorhynchus,Zambesi parrotfish,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-101,Parrot fish ,Parrotfish,1,Freshwater fishes,13,Miscellaneous freshwater fishes,DLO,Cyphomyrus discorhynchus,Zambesi parrotfish,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USJ,Calotomus japonicus,Japanese parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,ULG,Calotomus carolinus,Carolines parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,ULY,Calotomus spinidens,Spinytooth parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UNV,Calotomus viridescens,Viridescent parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UUG,Chlorurus gibbus,Heavybeak parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UUS,Chlorurus sordidus,Daisy parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UUY,Chlorurus strongylocephalus,Steephead parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UUP,Chlorurus bleekeri,Bleeker's parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UUV,Chlorurus frontalis,Pacific slopehead parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UUD,Chlorurus bowersi,Bower's parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UKC,Chlorurus cyanescens,Blue humphead parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UWC,Chlorurus enneacanthus,Captain parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UKZ,Chlorurus japanensis,Palecheek parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,NCD,Nicholsina denticulata,Loosetooth parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,QCJ,Nicholsina usta,Emerald parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,RMF,Sparisoma aurofrenatum,Redband parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,RSY,Sparisoma chrysopterum,Redtail parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,PRR,Sparisoma cretense,Parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,QZV,Sparisoma rubripinne,Redfin parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,QHI,Sparisoma atomarium,Greenblotch parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,QRV,Sparisoma viride,Stoplight parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,NKP,Sparisoma radians,Bucktooth parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USU,Scarus coeruleus,Blue parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVT,Scarus vetula,Queen parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USF,Scarus forsteni,Forsten's parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USS,Scarus iserti,Striped parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USN,Scarus taeniopterus,Princess parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USW,Scarus persicus,Gulf parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USZ,Scarus frenatus,Bridled parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USY,Scarus ghobban,Blue-barred parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVN,Scarus niger,Dusky parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVB,Scarus hoefleri,Guinean parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVD,Scarus psittacus,Common parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVE,Scarus rubroviolaceus,Ember parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVG,Scarus russelii,Eclipse parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UVH,Scarus tricolor,Tricolour parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UAW,Scarus arabicus,Arabian parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UBG,Scarus ferrugineus,Rusty parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UBJ,Scarus fuscopurpureus,Purple-brown parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UYS,Scarus caudofasciatus,Redbarred parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UKS,Scarus falcipinnis,Sicklefin parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UKV,Scarus festivus,Festive parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,ULZ,Scarus globiceps,Globehead parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UME,Scarus scaber,Fivesaddle parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,UMF,Scarus viridifucatus,Roundhead parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,QUF,Scarus guacamaia,Rainbow parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,MWD,Scarus coelestinus,Midnight parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,LOV,Leptoscarus vaigiensis,Marbled parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,OUR,Cryptotomus roseus,Bluelip parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,HJH,Hipposcarus harid,Candelamoa parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,HJZ,Hipposcarus longiceps,Pacific longnose parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,USR,Cetoscarus bicolor,Bicolour parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,BMK,Bolbometopon muricatum,Green humphead parrotfish,7,Other marine fish,62,Other marine fish,TRUE
+16-101,Parrot fish ,Parrotfish,3,Marine fishes,33,Miscellaneous coastal fishes,PWT,Scaridae,Parrotfishes nei,7,Other marine fish,62,Other marine fish,TRUE
+16-381,Plaice  ,Plaice  ,3,Marine fishes,31,"Flounders, halibuts, soles",NTJ,Acanthopsetta nadeshnyi,Scale-eye plaice,7,Other marine fish,62,Other marine fish,TRUE
+16-381,Plaice  ,Plaice  ,3,Marine fishes,31,"Flounders, halibuts, soles",PLE,Pleuronectes platessa,European plaice,4,Flatfish,99,"Plaice, European",TRUE
+16-381,Plaice  ,Plaice  ,3,Marine fishes,31,"Flounders, halibuts, soles",ALP,Pleuronectes quadrituberculatus,Alaska plaice,4,Flatfish,30,"Plaice, other",TRUE
+16-381,Plaice  ,Plaice  ,3,Marine fishes,31,"Flounders, halibuts, soles",PLA,Hippoglossoides platessoides,Amer. plaice(=Long rough dab),4,Flatfish,30,"Plaice, other",TRUE
+16-378,Pollock Alaskan  ,Alaskan pollock,3,Marine fishes,32,"Cods, hakes, haddocks",ALK,Gadus chalcogrammus,Alaska pollock(=Walleye poll.),3,Groundfish,87,Alaska pollock,FALSE
+16-124,Pomfret black ,Black pomfret,3,Marine fishes,37,Miscellaneous pelagic fishes,POB,Parastromateus niger,Black pomfret,7,Other marine fish,62,Other marine fish,FALSE
+16-125,Pomfret white ,White pomfret,3,Marine fishes,37,Miscellaneous pelagic fishes,SIP,Pampus argenteus,Silver pomfret,7,Other marine fish,62,Other marine fish,TRUE
+16-125,Pomfret white ,White pomfret,3,Marine fishes,37,Miscellaneous pelagic fishes,XPO,Pampus spp,Silver pomfrets nei,7,Other marine fish,62,Other marine fish,TRUE
+16-387,Pns king ,King prawns,4,Crustaceans,45,"Shrimps, prawns",PNP,Penaeus plebejus,Eastern king prawn,8,Crustaceans,70,"Shrimp, warmwater",TRUE
+16-387,Pns king ,King prawns,4,Crustaceans,45,"Shrimps, prawns",WKP,Penaeus latisulcatus,Western king prawn,8,Crustaceans,70,"Shrimp, warmwater",TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,RES,Lutjanus argentimaculatus,Mangrove red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,LUB,Lutjanus sebae,Emperor red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,LUJ,Lutjanus vitta,Brownstripe red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,SNC,Lutjanus purpureus,Southern red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,SNR,Lutjanus campechanus,Northern red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,LJA,Lutjanus agennes,African red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,LJB,Lutjanus bohar,Two-spot red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,LJG,Lutjanus gibbus,Humpback red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,LWP,Lutjanus peru,Pacific red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,GVJ,Lutjanus guilcheri,Yellowfin red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,ETA,Etelis carbunculus,Deep-water red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-126,Red snapper  ,Red snapper  ,3,Marine fishes,33,Miscellaneous coastal fishes,ETC,Etelis coruscans,Deepwater longtail red snapper,7,Other marine fish,62,Other marine fish,TRUE
+16-131,Redfish ,Redfish ,3,Marine fishes,34,Miscellaneous demersal fishes,,,,3,Groundfish,20,Redfish,TRUE
+16-133,Rock Salmon/Dogfish ,,3,Marine fishes,38,"Sharks, rays, chimaeras",,,,7,Other marine fish,48,Dogfish,TRUE
+16-299,Roe cod hard ,REMOVE,,,,,,,,,,,,
+16-302,Roe herring soft ,REMOVE,,,,,,,,,,,,
+16-132,Rohu ,Rohu,1,Freshwater fishes,11,"Carps, barbels and other cyprinids",LRH,Labeo rohita,Roho labeo,1,Freshwater fish,8,Other freshwater fish,FALSE
+16-356,Salmon farmed  ,Salmon,2,Diadromous fishes,23,"Salmons, trouts, smelts",SAL,Salmo salar,Atlantic salmon,2,Salmonids,9,Salmon,TRUE
+16-360,Salmon wild  ,REMOVE,2,Diadromous fishes,23,"Salmons, trouts, smelts",SAL,Salmo salar,Atlantic salmon,2,Salmonids,9,Salmon,TRUE
+16-401,Sardines  ,Sardines  ,3,Marine fishes,35,"Herrings, sardines, anchovies",,,,5,Small pelagics,39,Sardine,TRUE
+16-142,Shark ,Shark ,3,Marine fishes,38,"Sharks, rays, chimaeras",,,,7,Other marine fish,49,Other sharks,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",SRR,Amblyraja georgiana,Antarctic starry skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJG,Amblyraja hyperborea,Arctic skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJJ,Amblyraja jenseni,Shorttail skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RFA,Amblyraja taaf,Whiteleg skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRI,Beringraja binoculata,Big skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAH,Beringraja rhina,Longnose skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RFT,Beringraja stellulata,Starry skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRU,Dentiraja australis,Sydney skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRV,Dentiraja cerva,White-spotted skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFM,Dentiraja lemprieri,Thornback skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFP,Dentiraja polyommata,Argus skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJB,Dipturus batis,Blue skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRL,Dipturus bullisi,Bullis skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRM,Dipturus campbelli,Blackspot skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",DPV,Dipturus chilensis,Yellownose skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFD,Dipturus doutrei,Violet skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFU,Dipturus gudgeri,Greenback skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",DPQ,Dipturus innominatus,New Zealand smooth skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",DRJ,Dipturus intermedius,Flapper skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJL,Dipturus laevis,Barndoor skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFA,Dipturus lanceorostratus,Rattail skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAT,Dipturus nasutus,Rough skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAD,Dipturus nidarosiensis,Norwegian skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAO,Dipturus olseni,Spreadfin skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJO,Dipturus oxyrinchus,Longnosed skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAL,Dipturus pullopunctatus,Slime skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RFS,Dipturus springeri,Roughbelly skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RFY,Dipturus stenorhynchus,Prow-nose skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJD,Leucoraja erinacea,Little skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFG,Leucoraja garmani,Freckled skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJT,Leucoraja ocellata,Winter skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAK,Leucoraja wallacei,Yellowspotted skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJS,Malacoraja senta,Smooth skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJP,Malacoraja spinacidermis,Soft skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RNS,Neoraja stehmanni,African pygmy skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",UKM,Neoraja iberica,Iberian pygmy skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RFL,Raja straeleni,Spotted skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRE,Rajella barnardi,Bigthorn skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRD,Rajella caudaspinosa,Munchskin skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRQ,Rajella dissimilis,Ghost skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFV,Rajella leopardus,Leopard skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RFV,Rajella ravidula,Smoothback skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRK,Rostroraja ackleyi,Ocellate skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RJA,Rostroraja alba,White skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JFE,Rostroraja eglanteria,Clearnose skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAF,Rostroraja texana,Roundel skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JAZ,Spiniraja whitleyi,Wedgenose skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RAJ,Rajidae,Rays and skates nei,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYF,Arctoraja parmifera,Alaska skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RAY,Arhynchobatis asperrimus,Longtail skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRT,Atlantoraja castelnaui,Spotback skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",JRY,Atlantoraja cyclophora,Eyespot skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYY,Bathyraja abyssicola,Deep-sea skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYA,Bathyraja aleutica,Aleutian skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BZB,Bathyraja brachyurops,Broadnose skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BEA,Bathyraja eatonii,Eaton's skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYI,Bathyraja interrupta,Sandpaper skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYR,Bathyraja irrasa,Kerguelen sandpaper skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYL,Bathyraja lindbergi,Commander skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BAM,Bathyraja maccaini,McCain's skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BZM,Bathyraja macloviana,Patagonian skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYE,Bathyraja meridionalis,Dark-belly skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BMU,Bathyraja murrayi,Murray's skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BZS,Bathyraja scaphiops,Cuphead skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYU,Bathyraja shuntovi,Longnose deep-sea skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BYZ,Bathyraja smithii,African softnose skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BJS,Bathyraja spinosissima,Spiny skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BJR,Bathyraja trachura,Roughtail skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",BJV,Bathyraja violacea,Okhotsk skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",PJS,Brochiraja asperula,Smooth deep-sea skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",PJF,Brochiraja spinifera,Prickly deep-sea skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RIW,Irolita waitii,Southern round skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",PJA,Pavoraja alleni,Allens skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",PJN,Pavoraja nitida,Peacock skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",QMB,Psammobatis bergi,Blotched sand skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",QMT,Psammobatis normani,Shortfin sand skate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",XMB,Psammobatis spp,Psammobatis sand skates nei,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RHK,Rhinoraja kujiensis,Dapple-bellied softnose skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RRW,Rioraja agassizi,Rio skate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",YAW,Sympterygia acuta,Bignose fanskate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",YBQ,Sympterygia bonapartii,Smallnose fanskate,7,Other marine fish,56,Ray,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",CJA,Cruriraja atlantis,Cuban legskate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",CJD,Cruriraja durbanensis,Smoothnose legskate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",CJP,Cruriraja parcomaculata,Roughnose legskate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RAU,Anacanthobatis marmoratus,Spotted legskate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",RAH,Indobatis ori,Black legskate,7,Other marine fish,62,Other marine fish,TRUE
+16-143,Skate ,Skate,3,Marine fishes,38,"Sharks, rays, chimaeras",SKX,Elasmobranchii,"Sharks, rays, skates, etc. nei",7,Other marine fish,49,Other sharks,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,SIA,Stolothrissa tanganicae,Lake Tanganyika sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,RIA,Rhinosardinia amazonica,Amazon spinejaw sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,CUO,Clupeoides borneensis,Borneo River sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,CLK,Corica soborna,Ganges River sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,MCX,Microthrissa royauxi,Royal sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,PCM,Poecilothrissa moeruensis,Lake Mweru sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,CNR,Nannothrissa parva,Lake Tumba dwarf sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,CUR,Clupeichthys aesarnensis,Thai river sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,1,Freshwater fishes,13,Miscellaneous freshwater fishes,CVU,Clupeichthys goniognathus,Sumatran river sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,2,Diadromous fishes,24,Shads,CLA,Clupeonella cultriventris,Black and Caspian Sea sprat,5,Small pelagics,35,Sprat (=Brisling),TRUE
+16-218,Sprats ,Sprats ,2,Diadromous fishes,24,Shads,CLE,Clupeonella engrauliformis,Anchovy sprat,5,Small pelagics,35,Sprat (=Brisling),TRUE
+16-218,Sprats ,Sprats ,2,Diadromous fishes,24,Shads,CLG,Clupeonella grimmi,Southern Caspian sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,2,Diadromous fishes,24,Shads,CWA,Clupeonella spp,Black-Caspian Sea sprats nei,5,Small pelagics,35,Sprat (=Brisling),TRUE
+16-218,Sprats ,Sprats ,2,Diadromous fishes,24,Shads,PLP,Platanichthys platana,River Plate sprat,1,Freshwater fish,8,Other freshwater fish,TRUE
+16-218,Sprats ,Sprats ,3,Marine fishes,35,"Herrings, sardines, anchovies",SPR,Sprattus sprattus,European sprat,5,Small pelagics,35,Sprat (=Brisling),TRUE
+16-218,Sprats ,Sprats ,3,Marine fishes,35,"Herrings, sardines, anchovies",FAS,Sprattus fuegensis,Falkland sprat,5,Small pelagics,35,Sprat (=Brisling),TRUE
+16-218,Sprats ,Sprats ,3,Marine fishes,35,"Herrings, sardines, anchovies",FZT,Sprattus antipodum,New Zealand blueback sprat,7,Other marine fish,62,Other marine fish,TRUE
+16-218,Sprats ,Sprats ,3,Marine fishes,35,"Herrings, sardines, anchovies",RTA,Ramnogaster arcuata,Jenyns's sprat,7,Other marine fish,62,Other marine fish,TRUE
+16-218,Sprats ,Sprats ,3,Marine fishes,35,"Herrings, sardines, anchovies",CEF,Ehirava fluviatilis,Malabar sprat,5,Small pelagics,40,Miscellaneous small pelagics,TRUE
+16-218,Sprats ,Sprats ,3,Marine fishes,35,"Herrings, sardines, anchovies",HPV,Hyperlophus vittatus,Sandy sprat,7,Other marine fish,62,Other marine fish,TRUE
+16-263,Squid ,Squid ,5,Molluscs,57,"Squids, cuttlefishes, octopuses",,,,9,Cephalopods,75,Squid,TRUE
+16-221,Swordfish  ,Swordfish,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,6,Tuna and tuna-like species,45,Swordfish,TRUE
+16-154,Tilapia ,Tilapia ,1,Freshwater fishes,12,Tilapias and other cichlids,,,,1,Freshwater fish,7,Tilapia,TRUE
+16-224,Trout brown ,Brown trout,2,Diadromous fishes,23,"Salmons, trouts, smelts",TRS,Salmo trutta,Sea trout,2,Salmonids,10,Trout,FALSE
+16-395,Trout rainbow  ,Rainbow trout,2,Diadromous fishes,23,"Salmons, trouts, smelts",TRR,Oncorhynchus mykiss,Rainbow trout,2,Salmonids,10,Trout,FALSE
+16-399,Tuna  ,Tuna  ,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,6,Tuna and tuna-like species,41,"Tuna, albacore",TRUE
+16-399,Tuna  ,Tuna  ,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,6,Tuna and tuna-like species,42,"Tuna, bigeye",TRUE
+16-399,Tuna  ,Tuna  ,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,6,Tuna and tuna-like species,43,"Tuna, bluefin",TRUE
+16-399,Tuna  ,Tuna  ,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,6,Tuna and tuna-like species,46,"Tuna, yellowfin",TRUE
+16-399,Tuna  ,Tuna  ,3,Marine fishes,36,"Tunas, bonitos, billfishes",,,,6,Tuna and tuna-like species,47,"Tuna, miscellaneous",TRUE
+16-155,Turbot  ,Turbot  ,3,Marine fishes,31,"Flounders, halibuts, soles",,,,4,Flatfish,32,Turbot,TRUE
+16-159,Whiting  ,Whiting  ,3,Marine fishes,32,"Cods, hakes, haddocks",POS,Micromesistius australis,Southern blue whiting,3,Groundfish,12,Blue whiting,TRUE
+16-159,Whiting  ,Whiting  ,3,Marine fishes,32,"Cods, hakes, haddocks",WHG,Merlangius merlangus,Whiting,3,Groundfish,23,Whiting,TRUE

@@ -1,0 +1,276 @@
+ISSCAAP_Division_Code,ISSCAAP_Division_Desc,ISSCAAP_Group_Code,ISSCAAP_Group_Desc,ERSCode,ScientificName,CG_code,CG_descr,MCS_code,MCS_descr,kcal,protein,fat
+3,Marine fishes,34,Miscellaneous demersal fishes,REN,Sebastes fasciatus,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",EJB,Sepia bertheloti,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OUK,Alloteuthis africana,9,Cephalopods,75,Squid,88,17.9,1.3
+4,Crustaceans,45,"Shrimps, prawns",AKS,Acetes japonicus,8,Crustaceans,71,"Shrimp, miscellaneous",81,16.2,1.3
+3,Marine fishes,32,"Cods, hakes, haddocks",ALK,Gadus chalcogrammus,3,Groundfish,87,Alaska pollock,76,16.6,0.6
+3,Marine fishes,36,"Tunas, bonitos, billfishes",ALB,Thunnus alalunga,6,Tuna and tuna-like species,41,"Tuna, albacore",143,23.7,4.6
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OUW,Alloteuthis spp,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,37,Miscellaneous pelagic fishes,AMX,Seriola spp,7,Other marine fish,62,Other marine fish,115,22,2.3
+3,Marine fishes,31,"Flounders, halibuts, soles",PLA,Hippoglossoides platessoides,4,Flatfish,30,"Plaice, other",90,17.6,1.6
+5,Molluscs,53,Oysters,OYA,Crassostrea virginica,10,Bivalves and other molluscs and aquatic invertebrates,79,Oyster,64,8.5,1.8
+5,Molluscs,55,"Scallops, pectens",SCA,Placopecten magellanicus,10,Bivalves and other molluscs and aquatic invertebrates,78,Scallop,85,15.9,0.7
+5,Molluscs,56,"Clams, cockles, arkshells",BLS,Anadara spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,35,"Herrings, sardines, anchovies",VET,Engraulis ringens,5,Small pelagics,34,Anchovy,113,19.1,3.5
+3,Marine fishes,35,"Herrings, sardines, anchovies",ENR,Engraulis spp,5,Small pelagics,34,Anchovy,113,19.1,3.5
+3,Marine fishes,33,Miscellaneous coastal fishes,DEA,Dentex angolensis,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQG,Todarodes angolensis,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",TFP,Todarodes filippovae,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",PRD,Pareledone spp,9,Cephalopods,74,Octopus,88,17.9,1.3
+3,Marine fishes,32,"Cods, hakes, haddocks",HKP,Merluccius hubbsi,3,Groundfish,16,Hake,99,17.8,2.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQA,Illex argentinus,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",ARK,Arca spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,51,Freshwater molluscs,CMA,Corbicula fluminea,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,33,Miscellaneous coastal fishes,HUM,Pleurogrammus monopterygius,7,Other marine fish,62,Other marine fish,111,17.5,4
+5,Molluscs,56,"Clams, cockles, arkshells",CLR,Ensis leei,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,36,"Tunas, bonitos, billfishes",BFT,Thunnus thynnus,6,Tuna and tuna-like species,43,"Tuna, bluefin",143,23.7,4.6
+3,Marine fishes,37,Miscellaneous pelagic fishes,VMA,Scomber colias,5,Small pelagics,38,Mackerel,173,20.4,9.5
+3,Marine fishes,32,"Cods, hakes, haddocks",COD,Gadus morhua,3,Groundfish,13,Cod,56,18.1,0.8
+3,Marine fishes,35,"Herrings, sardines, anchovies",HER,Clupea harengus,5,Small pelagics,36,Herring,200,17.8,13.8
+3,Marine fishes,37,Miscellaneous pelagic fishes,HOM,Trachurus trachurus,5,Small pelagics,101,"Horse mackerel, Atlantic",136,19.7,5.8
+3,Marine fishes,37,Miscellaneous pelagic fishes,MAC,Scomber scombrus,5,Small pelagics,38,Mackerel,183,18.7,11.4
+3,Marine fishes,34,Miscellaneous demersal fishes,RED,Sebastes spp,3,Groundfish,20,Redfish,103,18.4,2.7
+5,Molluscs,56,"Clams, cockles, arkshells",CLB,Spisula solidissima,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,35,"Herrings, sardines, anchovies",SAM,Sardinella lemuru,5,Small pelagics,39,Sardine,127,20.2,4.5
+4,Crustaceans,45,"Shrimps, prawns",PBA,Penaeus merguiensis,8,Crustaceans,70,"Shrimp, warmwater",99,20.5,1.3
+3,Marine fishes,34,Miscellaneous demersal fishes,REB,Sebastes mentella,3,Groundfish,20,Redfish,103,18.4,2.7
+5,Molluscs,56,"Clams, cockles, arkshells",HIP,Hippopus hippopus,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,37,Miscellaneous pelagic fishes,BIS,Selar crumenophthalmus,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,36,"Tunas, bonitos, billfishes",BET,Thunnus obesus,6,Tuna and tuna-like species,42,"Tuna, bigeye",143,23.7,4.6
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",UHL,Sepioteuthis lessoniana,9,Cephalopods,75,Squid,88,17.9,1.3
+2,Diadromous fishes,24,Shads,CLA,Clupeonella cultriventris,5,Small pelagics,35,Sprat (=Brisling),146,17.1,8.1
+3,Marine fishes,34,Miscellaneous demersal fishes,BSF,Aphanopus carbo,7,Other marine fish,58,Scabbardfish,121,20.1,3.9
+3,Marine fishes,34,Miscellaneous demersal fishes,BBS,Scorpaena porcus,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+3,Marine fishes,33,Miscellaneous coastal fishes,MEN,Melichthys niger,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+5,Molluscs,54,Mussels,MUS,Mytilus edulis,10,Bivalves and other molluscs and aquatic invertebrates,92,Mussel Mytilus spp.,74,11.2,1.8
+3,Marine fishes,32,"Cods, hakes, haddocks",WHB,Micromesistius poutassou,3,Groundfish,12,Blue whiting,81,18.4,0.3
+3,Marine fishes,33,Miscellaneous coastal fishes,BUC,Harpadon nehereus,7,Other marine fish,62,Other marine fish,40,8.8,0.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQM,Illex coindetii,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",BCL,Saxidomus giganteus,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,55,"Scallops, pectens",SCC,Argopecten gibbus,10,Bivalves and other molluscs and aquatic invertebrates,78,Scallop,85,15.9,0.7
+3,Marine fishes,35,"Herrings, sardines, anchovies",NPA,Engraulis mordax,5,Small pelagics,34,Anchovy,113,19.1,3.5
+3,Marine fishes,33,Miscellaneous coastal fishes,DEN,Dentex canariensis,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+7,Miscellaneous aquatic animals,77,Miscellaneous aquatic invertebrates,MFX,Stomolophus meleagris,10,Bivalves and other molluscs and aquatic invertebrates,107,Jellyfish,4,0.8,0.1
+3,Marine fishes,32,"Cods, hakes, haddocks",HKC,"Merluccius capensis, M.paradoxus",3,Groundfish,16,Hake,99,17.8,2.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",CHO,Loligo reynaudii,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,37,Miscellaneous pelagic fishes,HMC,Trachurus capensis,5,Small pelagics,37,"Horse mackerel, other",136,19.7,5.8
+3,Marine fishes,34,Miscellaneous demersal fishes,REC,Sebastes capensis,3,Groundfish,20,Redfish,103,18.4,2.7
+3,Marine fishes,37,Miscellaneous pelagic fishes,CAP,Mallotus villosus,5,Small pelagics,40,Miscellaneous small pelagics,117,14.9,5.9
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OTQ,Octopus briareus,10,Bivalves and other molluscs and aquatic invertebrates,81,Other molluscs and aquatic invertebrates,88,17.9,1.3
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,113,19.1,3.5
+1,Freshwater fishes,13,Miscellaneous freshwater fishes,CHA,Characidae,1,Freshwater fish,8,Other freshwater fish,170,17.6,10.5
+3,Marine fishes,37,Miscellaneous pelagic fishes,CJM,Trachurus murphyi,5,Small pelagics,37,"Horse mackerel, other",136,19.7,5.8
+2,Diadromous fishes,23,"Salmons, trouts, smelts",CHU,Oncorhynchus keta,2,Salmonids,9,Salmon,144,20.5,6.3
+1,Freshwater fishes,12,Tilapias and other cichlids,CIX,Cichlidae,1,Freshwater fish,8,Other freshwater fish,94,17.6,2.1
+5,Molluscs,56,"Clams, cockles, arkshells",CLX,Bivalvia,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+2,Diadromous fishes,23,"Salmons, trouts, smelts",COH,Oncorhynchus kisutch,2,Salmonids,9,Salmon,144,20.5,6.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",ITW,Sepietta oweniana,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+1,Freshwater fishes,11,"Carps, barbels and other cyprinids",FCP,Cyprinus carpio,1,Freshwater fish,1,Carp,117,17.5,4.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",CTC,Sepia officinalis,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+3,Marine fishes,33,Miscellaneous coastal fishes,DEC,Dentex dentex,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+7,Miscellaneous aquatic animals,77,Miscellaneous aquatic invertebrates,AJQ,Aurelia aurita,10,Bivalves and other molluscs and aquatic invertebrates,107,Jellyfish,4,0.8,0.1
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OCC,Octopus vulgaris,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQC,Loligo spp,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,33,Miscellaneous coastal fishes,DNC,Dentex congoensis,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+5,Molluscs,56,"Clams, cockles, arkshells",DKC,Tridacna crocea,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,37,Miscellaneous pelagic fishes,HMZ,Trachurus trecae,5,Small pelagics,37,"Horse mackerel, other",136,19.7,5.8
+5,Molluscs,53,Oysters,OYC,Crassostrea spp,10,Bivalves and other molluscs and aquatic invertebrates,79,Oyster,64,8.5,1.8
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",CTL,"Sepiidae, Sepiolidae",9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",IAX,Sepia spp,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+1,Freshwater fishes,11,"Carps, barbels and other cyprinids",FCY,Cyprinidae,1,Freshwater fish,8,Other freshwater fish,117,4.7,NA
+1,Freshwater fishes,13,Miscellaneous freshwater fishes,DAG,"Stolothrissa, Limnothrissa spp",1,Freshwater fish,8,Other freshwater fish,97,16.2,3.1
+3,Marine fishes,33,Miscellaneous coastal fishes,DEX,Dentex spp,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",YUR,Thysanoteuthis rhombus,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",DON,Donax spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",CTR,Sepiola rondeletii,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",EJE,Sepia elegans,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+3,Marine fishes,34,Miscellaneous demersal fishes,BDL,Benthodesmus elongatus,7,Other marine fish,62,Other marine fish,121,20.1,3.9
+5,Molluscs,56,"Clams, cockles, arkshells",DKX,Tridacna maxima,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",PQQ,Spisula aequilatera,10,Bivalves and other molluscs and aquatic invertebrates,81,Other molluscs and aquatic invertebrates,72,10.8,1.1
+3,Marine fishes,35,"Herrings, sardines, anchovies",ANE,Engraulis encrasicolus,5,Small pelagics,34,Anchovy,113,19.1,3.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OUL,Alloteuthis subulata,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQE,Todarodes sagittatus,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,32,"Cods, hakes, haddocks",HKE,Merluccius merluccius,3,Groundfish,16,Hake,99,17.8,2.5
+3,Marine fishes,35,"Herrings, sardines, anchovies",PIL,Sardina pilchardus,5,Small pelagics,39,Sardine,158,20,8.1
+3,Marine fishes,31,"Flounders, halibuts, soles",PLE,Pleuronectes platessa,4,Flatfish,99,"Plaice, European",90,17.6,1.6
+5,Molluscs,56,"Clams, cockles, arkshells",RAE,Solen marginatus,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,35,"Herrings, sardines, anchovies",SPR,Sprattus sprattus,5,Small pelagics,35,Sprat (=Brisling),146,17.1,8.1
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQR,Loligo vulgaris,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,37,Miscellaneous pelagic fishes,HMY,Caranx rhonchus,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,33,Miscellaneous coastal fishes,FLF,Cantherhines (=Navodon) spp,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,33,Miscellaneous coastal fishes,FFX,Monacanthidae,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,33,Miscellaneous coastal fishes,MUF,Mugil cephalus,7,Other marine fish,62,Other marine fish,121,19.8,4
+5,Molluscs,56,"Clams, cockles, arkshells",TDS,Tridacna squamosa,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OMM,Ommastrephes spp,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",TWE,Todaropsis spp,10,Bivalves and other molluscs and aquatic invertebrates,81,Other molluscs and aquatic invertebrates,88,17.9,1.3
+1,Freshwater fishes,11,"Carps, barbels and other cyprinids",FBM,Abramis brama,1,Freshwater fish,8,Other freshwater fish,117,17.5,4.7
+3,Marine fishes,36,"Tunas, bonitos, billfishes",FRZ,"Auxis thazard, A. rochei",6,Tuna and tuna-like species,47,"Tuna, miscellaneous",143,23.7,4.6
+3,Marine fishes,34,Miscellaneous demersal fishes,BEH,Benthodesmus spp,7,Other marine fish,62,Other marine fish,121,20.1,3.9
+5,Molluscs,56,"Clams, cockles, arkshells",TDG,Tridacna gigas,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",QQX,Tridacna spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",PSG,Psychroteuthis glacialis,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",MTV,Mactra veneriformis,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,34,Miscellaneous demersal fishes,REG,Sebastes norvegicus,3,Groundfish,20,Redfish,103,18.4,2.7
+3,Marine fishes,35,"Herrings, sardines, anchovies",SAG,Sardinella gibbosa,5,Small pelagics,39,Sardine,127,20.2,4.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",GDW,Gonatidae,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,55,"Scallops, pectens",SCE,Pecten maximus,10,Bivalves and other molluscs and aquatic invertebrates,78,Scallop,85,15.9,0.7
+5,Molluscs,55,"Scallops, pectens",SJA,Pecten jacobaeus,10,Bivalves and other molluscs and aquatic invertebrates,78,Scallop,85,15.9,0.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OIJ,Moroteuthopsis ingens,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,54,Mussels,MSV,Perna viridis,10,Bivalves and other molluscs and aquatic invertebrates,77,"Mussel, other",74,11.2,1.8
+3,Marine fishes,31,"Flounders, halibuts, soles",GHL,Reinhardtius hippoglossoides,4,Flatfish,91,"Halibut, Greenland",179,13,13.7
+3,Marine fishes,33,Miscellaneous coastal fishes,TRG,Balistes capriscus,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,32,"Cods, hakes, haddocks",HAD,Melanogrammus aeglefinus,3,Groundfish,15,Haddock,81,18.6,0.2
+3,Marine fishes,34,Miscellaneous demersal fishes,CUT,Trichiuridae,7,Other marine fish,58,Scabbardfish,121,20.1,3.9
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",UHX,Onykia spp,10,Bivalves and other molluscs and aquatic invertebrates,81,Other molluscs and aquatic invertebrates,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OCM,Eledone spp,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",EOI,Eledone cirrhosa,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",HCL,Pseudocardium sybillae,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,37,Miscellaneous pelagic fishes,RAG,Rastrelliger kanagurta,5,Small pelagics,38,Mackerel,116,20.4,3.2
+3,Marine fishes,37,Miscellaneous pelagic fishes,RAX,Rastrelliger spp,5,Small pelagics,38,Mackerel,116,20.4,3.2
+3,Marine fishes,35,"Herrings, sardines, anchovies",IOS,Sardinella longiceps,5,Small pelagics,39,Sardine,127,20.2,4.5
+3,Marine fishes,37,Miscellaneous pelagic fishes,RUS,Decapterus russelli,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OJD,Loligo duvauceli,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQZ,Loliginidae,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,34,Miscellaneous demersal fishes,APH,Aphanopus intermedius,7,Other marine fish,58,Scabbardfish,121,20.1,3.9
+3,Marine fishes,37,Miscellaneous pelagic fishes,JAX,Trachurus spp,5,Small pelagics,37,"Horse mackerel, other",136,19.7,5.8
+3,Marine fishes,37,Miscellaneous pelagic fishes,TRE,Caranx spp,7,Other marine fish,62,Other marine fish,100,19.8,1.7
+3,Marine fishes,37,Miscellaneous pelagic fishes,AMJ,Seriola quinqueradiata,7,Other marine fish,62,Other marine fish,160,22,7.300000000000001
+3,Marine fishes,35,"Herrings, sardines, anchovies",JAN,Engraulis japonicus,5,Small pelagics,34,Anchovy,113,19.1,3.5
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,72,10.8,1.1
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQJ,Todarodes pacificus,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",HCJ,Meretrix lusoria,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,37,Miscellaneous pelagic fishes,JJM,Trachurus japonicus,5,Small pelagics,37,"Horse mackerel, other",136,19.7,5.8
+3,Marine fishes,37,Miscellaneous pelagic fishes,RSA,Decapterus maruadsi,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,36,"Tunas, bonitos, billfishes",NPH,Scomberomorus niphonius,5,Small pelagics,38,Mackerel,125,20,4.4
+7,Miscellaneous aquatic animals,77,Miscellaneous aquatic invertebrates,JEL,Rhopilema spp,10,Bivalves and other molluscs and aquatic invertebrates,107,Jellyfish,4,0.8,0.1
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",GIS,Dosidicus gigas,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,36,"Tunas, bonitos, billfishes",KAW,Euthynnus affinis,6,Tuna and tuna-like species,47,"Tuna, miscellaneous",143,23.7,4.6
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,125,20,4.4
+3,Marine fishes,33,Miscellaneous coastal fishes,DEL,Dentex macrophthalmus,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+3,Marine fishes,34,Miscellaneous demersal fishes,LHT,Trichiurus lepturus,7,Other marine fish,62,Other marine fish,121,20.1,3.9
+3,Marine fishes,33,Miscellaneous coastal fishes,NHR,Canthidermis macrolepis,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",TDQ,Todaropsis eblanae,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQL,Dorytheutis (Amerigo) pealeii,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",CLM,Mesodesma donacium,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,37,Miscellaneous pelagic fishes,MSD,Decapterus macarellus,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+5,Molluscs,56,"Clams, cockles, arkshells",MAT,Mactridae,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+5,Molluscs,51,Freshwater molluscs,CMM,Corbicula manilensis,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,37,Miscellaneous pelagic fishes,HMM,Trachurus mediterraneus,5,Small pelagics,37,"Horse mackerel, other",136,19.7,5.8
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OQY,Octopus maya,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OUM,Alloteuthis media,9,Cephalopods,75,Squid,88,17.9,1.3
+2,Diadromous fishes,25,Miscellaneous diadromous fishes,MIL,Chanos chanos,7,Other marine fish,62,Other marine fish,132,21.1,4.7
+3,Marine fishes,33,Miscellaneous coastal fishes,DEM,Dentex maroccanus,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+3,Marine fishes,33,Miscellaneous coastal fishes,MUL,Mugilidae,7,Other marine fish,62,Other marine fish,121,19.8,4
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",EDT,Eledone moschata,9,Cephalopods,74,Octopus,88,17.9,1.3
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+3,Marine fishes,36,"Tunas, bonitos, billfishes",COM,Scomberomorus commerson,5,Small pelagics,38,Mackerel,NA,NA,NA
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OFJ,Ommastrephes bartramii,9,Cephalopods,75,Squid,88,17.9,1.3
+1,Freshwater fishes,13,Miscellaneous freshwater fishes,NIP,Lates niloticus,1,Freshwater fish,3,Nile perch,98,21.2,0.8
+3,Marine fishes,32,"Cods, hakes, haddocks",NHA,Merluccius productus,3,Groundfish,16,Hake,99,17.8,2.5
+4,Crustaceans,45,"Shrimps, prawns",ABS,Penaeus aztecus,8,Crustaceans,70,"Shrimp, warmwater",99,20.5,1.3
+4,Crustaceans,45,"Shrimps, prawns",PRA,Pandalus borealis,8,Crustaceans,64,"Shrimp, coldwater",81,16.8,1
+5,Molluscs,56,"Clams, cockles, arkshells",CLH,Mercenaria mercenaria,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQI,Illex illecebrosus,9,Cephalopods,75,Squid,88,17.9,1.3
+4,Crustaceans,45,"Shrimps, prawns",PST,Penaeus setiferus,8,Crustaceans,70,"Shrimp, warmwater",99,20.5,1.3
+3,Marine fishes,34,Miscellaneous demersal fishes,SFV,Sebastes viviparus,3,Groundfish,20,Redfish,103,18.4,2.7
+5,Molluscs,56,"Clams, cockles, arkshells",CLQ,Arctica islandica,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,33,Miscellaneous coastal fishes,CZT,Canthidermis sufflamen,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OCZ,Octopus spp,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OCT,Octopodidae,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OMZ,Ommastrephidae,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQO,Loligo opalescens,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OFE,Sthenoteuthis pteropus,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,32,"Cods, hakes, haddocks",PCO,Gadus macrocephalus,3,Groundfish,13,Cod,80,17.3,0.7
+5,Molluscs,53,Oysters,OYG,Magallana gigas,10,Bivalves and other molluscs and aquatic invertebrates,79,Oyster,64,8.5,1.8
+3,Marine fishes,35,"Herrings, sardines, anchovies",HEP,Clupea pallasii,5,Small pelagics,36,Herring,181,17.8,11.6
+5,Molluscs,56,"Clams, cockles, arkshells",TQU,Tresus nuttallii,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",TQZ,Tresus spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",PTS,Protothaca staminea,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",RAP,Siliqua patula,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,35,"Herrings, sardines, anchovies",CHP,Sardinops sagax,5,Small pelagics,39,Sardine,127,18.9,7.9025
+3,Marine fishes,37,Miscellaneous pelagic fishes,SAP,Cololabis saira,5,Small pelagics,40,Miscellaneous small pelagics,171,21.8,8.6
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQP,Dorytheutis (Amerigo) gahi,9,Cephalopods,75,Squid,88,17.9,1.3
+4,Crustaceans,45,"Shrimps, prawns",PEN,Penaeus spp,8,Crustaceans,70,"Shrimp, warmwater",99,20.5,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",IAH,Sepia pharaonis,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",IAR,Sepia orbignyana,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+3,Marine fishes,33,Miscellaneous coastal fishes,DEP,Dentex gibbosus,7,Other marine fish,51,"Seabream, other",105,19.9,2.2
+2,Diadromous fishes,23,"Salmons, trouts, smelts",PIN,Oncorhynchus gorbuscha,2,Salmonids,9,Salmon,144,20.5,6.3
+5,Molluscs,56,"Clams, cockles, arkshells",AFQ,Paphies australis,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,33,Miscellaneous coastal fishes,FIK,Stephanolepis hispidus,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,34,Miscellaneous demersal fishes,SIQ,Scorpaena histrio,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+3,Marine fishes,33,Miscellaneous coastal fishes,POY,Leiognathus spp,7,Other marine fish,62,Other marine fish,85,17.9,1
+3,Marine fishes,33,Miscellaneous coastal fishes,PON,Leiognathidae,7,Other marine fish,62,Other marine fish,85,17.9,1
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OQJ,Octopus joubini,10,Bivalves and other molluscs and aquatic invertebrates,81,Other molluscs and aquatic invertebrates,88,17.9,1.3
+3,Marine fishes,33,Miscellaneous coastal fishes,BLV,Balistes vetula,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+5,Molluscs,56,"Clams, cockles, arkshells",SOI,Solenidae,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,33,Miscellaneous coastal fishes,ONI,Odonus niger,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,34,Miscellaneous demersal fishes,RSE,Scorpaena scrofa,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+3,Marine fishes,34,Miscellaneous demersal fishes,CXF,Centroberyx affinis,3,Groundfish,20,Redfish,103,18.4,2.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",UHB,Onykia robusta,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",FAG,Paphia gallus,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,37,Miscellaneous pelagic fishes,RSC,Trachurus lathami,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,33,Miscellaneous coastal fishes,CNT,Canthidermis maculata,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,35,"Herrings, sardines, anchovies",SAA,Sardinella aurita,5,Small pelagics,39,Sardine,127,20.2,4.5
+3,Marine fishes,37,Miscellaneous pelagic fishes,WEC,Decapterus punctatus,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,32,"Cods, hakes, haddocks",POK,Pollachius virens,3,Groundfish,21,Saithe (=Coalfish),83,18.3,0.5
+3,Marine fishes,35,"Herrings, sardines, anchovies",SIX,Sardinella spp,5,Small pelagics,39,Sardine,127,20.2,4.5
+3,Marine fishes,37,Miscellaneous pelagic fishes,SDX,Decapterus spp,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+5,Molluscs,55,"Scallops, pectens",SCX,Pectinidae,10,Bivalves and other molluscs and aquatic invertebrates,78,Scallop,85,15.9,0.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",YTT,Berryteuthis magister,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,34,Miscellaneous demersal fishes,XSX,Scorpaeniformes,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+3,Marine fishes,34,Miscellaneous demersal fishes,SCO,Scorpaenidae,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+3,Marine fishes,34,Miscellaneous demersal fishes,SCS,Scorpaena spp,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+3,Marine fishes,33,Miscellaneous coastal fishes,ALN,Aluterus scriptus,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+5,Molluscs,54,Mussels,MSX,Mytilidae,10,Bivalves and other molluscs and aquatic invertebrates,77,"Mussel, other",74,11.2,1.8
+3,Marine fishes,36,"Tunas, bonitos, billfishes",KGX,Scomberomorus spp,5,Small pelagics,40,Miscellaneous small pelagics,125,20,4.4
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQS,Martialia hyadesi,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",NCL,Paphia spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,37,Miscellaneous pelagic fishes,DCC,Decapterus macrosoma,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",ILL,Illex spp,9,Cephalopods,75,Squid,88,17.9,1.3
+3,Marine fishes,37,Miscellaneous pelagic fishes,LSJ,Alepes djedaba,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,32,"Cods, hakes, haddocks",HKS,Merluccius bilinearis,3,Groundfish,16,Hake,99,17.8,2.5
+3,Marine fishes,34,Miscellaneous demersal fishes,SFS,Lepidopus caudatus,7,Other marine fish,58,Scabbardfish,121,20.1,3.9
+3,Marine fishes,33,Miscellaneous coastal fishes,GSU,Pagrus auratus,7,Other marine fish,51,"Seabream, other",1.5,19.9,2.2
+3,Marine fishes,36,"Tunas, bonitos, billfishes",SKJ,Katsuwonus pelamis,6,Tuna and tuna-like species,44,"Tuna, skipjack",138,24.2,3.8
+3,Marine fishes,34,Miscellaneous demersal fishes,SNQ,Scorpaena notata,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+5,Molluscs,56,"Clams, cockles, arkshells",TDD,Tridacna derasa,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,34,Miscellaneous demersal fishes,SNK,Thyrsites atun,7,Other marine fish,62,Other marine fish,121,20.1,3.9
+2,Diadromous fishes,23,"Salmons, trouts, smelts",SOC,Oncorhynchus nerka,2,Salmonids,9,Salmon,144,20.5,6.3
+5,Molluscs,56,"Clams, cockles, arkshells",RAZ,Solen spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",ULO,Spisula solida,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,32,"Cods, hakes, haddocks",PHA,Merluccius gayi,3,Groundfish,16,Hake,99,17.8,2.5
+3,Marine fishes,35,"Herrings, sardines, anchovies",ANC,Engraulis capensis,5,Small pelagics,34,Anchovy,113,19.1,3.5
+3,Marine fishes,32,"Cods, hakes, haddocks",POS,Micromesistius australis,3,Groundfish,12,Blue whiting,81,18.4,0.3
+3,Marine fishes,36,"Tunas, bonitos, billfishes",SBF,Thunnus maccoyii,6,Tuna and tuna-like species,43,"Tuna, bluefin",143,23.7,4.6
+5,Molluscs,56,"Clams, cockles, arkshells",EKK,Mercenaria campechiensis,10,Bivalves and other molluscs and aquatic invertebrates,81,Other molluscs and aquatic invertebrates,72,1.1,NA
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OQT,Octopus salutii,9,Cephalopods,74,Octopus,88,17.9,1.3
+3,Marine fishes,34,Miscellaneous demersal fishes,TZY,Trachyscorpia echinata,7,Other marine fish,62,Other marine fish,103,18.4,2.7
+5,Molluscs,56,"Clams, cockles, arkshells",CLT,Spisula polynyma,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+3,Marine fishes,35,"Herrings, sardines, anchovies",STO,Stolephorus spp,5,Small pelagics,34,Anchovy,113,19.1,3.5
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",ROA,Rossia macrosoma,9,Cephalopods,73,Cuttlefish,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",SVE,Chamelea gallina,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+5,Molluscs,56,"Clams, cockles, arkshells",ULT,Spisula subtruncata,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+5,Molluscs,56,"Clams, cockles, arkshells",SSD,Spisula spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,10.8,1.1
+5,Molluscs,56,"Clams, cockles, arkshells",TCL,Leukoma thaca,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,56,"Clams, cockles, arkshells",MUN,Mulinia spp,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+3,Marine fishes,33,Miscellaneous coastal fishes,FIL,Stephanolepis cirrhifer,7,Other marine fish,62,Other marine fish,480,18.8,0.7
+1,Freshwater fishes,12,Tilapias and other cichlids,TLP,Oreochromis spp,1,Freshwater fish,7,Tilapia,94,17.6,2.1
+3,Marine fishes,33,Miscellaneous coastal fishes,BDZ,Balistoides viridescens,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+2,Diadromous fishes,24,Shads,TOL,Tenualosa toli,5,Small pelagics,40,Miscellaneous small pelagics,198,19.8,12.6
+3,Marine fishes,37,Miscellaneous pelagic fishes,HAS,Megalaspis cordyla,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,33,Miscellaneous coastal fishes,TRI,Balistidae,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",UGU,Scaeurgus unicirrhus,9,Cephalopods,74,Octopus,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQU,"Loliginidae, Ommastrephidae",9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",SQF,Loligo forbesii,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,56,"Clams, cockles, arkshells",CLV,Veneridae,10,Bivalves and other molluscs and aquatic invertebrates,80,Clam,72,1.1,NA
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",TSQ,Nototodarus sloanii,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",IUB,Lolliguncula brevis,9,Cephalopods,75,Squid,88,17.9,1.3
+5,Molluscs,57,"Squids, cuttlefishes, octopuses",OCN,Callistoctopus macropus,9,Cephalopods,74,Octopus,88,17.9,1.3
+3,Marine fishes,33,Miscellaneous coastal fishes,DBS,Cantherhines dumerilii,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,32,"Cods, hakes, haddocks",WHG,Merlangius merlangus,3,Groundfish,23,Whiting,81,18.2,0.4
+3,Marine fishes,31,"Flounders, halibuts, soles",YES,Limanda aspera,4,Flatfish,31,"Sole, other",90,17.6,1.6
+3,Marine fishes,36,"Tunas, bonitos, billfishes",YFT,Thunnus albacares,6,Tuna and tuna-like species,46,"Tuna, yellowfin",143,23.7,4.6
+3,Marine fishes,33,Miscellaneous coastal fishes,UBV,Pseudobalistes flavimarginatus,7,Other marine fish,62,Other marine fish,87,18.8,0.7
+3,Marine fishes,37,Miscellaneous pelagic fishes,TRY,Selaroides leptolepis,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+3,Marine fishes,37,Miscellaneous pelagic fishes,TUM,Atule mate,7,Other marine fish,62,Other marine fish,114,21.3,2.5
+5,Molluscs,55,"Scallops, pectens",JSC,Mizuhopecten yessoensis,10,Bivalves and other molluscs and aquatic invertebrates,78,Scallop,85,15.9,0.7
