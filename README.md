@@ -33,6 +33,27 @@ Note that not every species necessarily had an estimate for the full set of micr
 
 For those species that had an 'unknown substantial amount' denoted by N in CoFID, we imputed these values with the Main Commercial Species' average for that nutrient. Trace amount (denoted by Tr) were given a generic sufficiently small number (0.0001). Any remaining species that had missing values in a specific nutrient were not given any 'broad' fallback estimate like with macronutrients. These adjustments took the species covered (in one or more micronutrients) to over 80% by volume.
 
+## Data dictionary (inputs)
+
+### Lookups
+
+`cofid_species_lookup.csv`
+
+A data file which matches all relevant fish and shellfish-related codes in the CoFID 2021 dataset that concerned raw and flesh-only products (i.e. having a Food Code starting with 16, and filtered by relevant phrases in the Food Name column) to:
+
+* three-letter FAO species code (`ERSCode`) where possible (these will have `Approximated` set to `FALSE`),
+* EUMOFA MCS category where not possible, e.g. 'Cuttlefish' in CoFID is matched the MCS category '73 - Cuttlefish' (these will have `Approximated` set to `TRUE`).
+
+In some cases, the CoFID species was matched to more than one MCS category:
+* For example, 'Seabass' in CoFID is matched to the MCS categories 'Seabass, other' and 'Seabass, European' in the absence of species information. These will also have `Approximated` set to `TRUE`.
+
+In some cases, the MCS category was an 'Other ...' category where the CoFID species was more specific (an 'Other ...' MCS category generally contains dozens of different species). In these cases, efforts were made to match these to specific species codes:
+* For example, 'Parrot fish' in CoFID did not have a specific match in the MCS categories, and so would fall under either '8 - Other freshwater fish' and/or '62 - Other marine fish'. We instead matched this species to various species with an English name matching 'parrotfish' or 'parrot fish'. 
+* Another example is 'Plaice', which did have relevant MCS categories (e.g. 99 - Plaice, European) but which could potentially also concern species in '30 - Plaice, other' and '62 - Other marine fish' (in the case of the scale-eye plaice).
+* All of these cases also have `Approximated` set to `TRUE`.
+
+Some of these species matches and inclusions are still being revised and are subject to change (e.g. currently, 'Cod' in CoFID in only matched to the MCS category '13 - Cod' but could potentially also apply to some species in MCS categories '24 - Other groundfish' or '62 - Other marine fish'.
+
 ## License
 
 The methodology and code is published to facilitate feedback and enable collaboration with researchers at our Main Research Providers and beyond. This repository is available under the [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
