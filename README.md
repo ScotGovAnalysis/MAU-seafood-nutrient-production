@@ -68,7 +68,13 @@ A local copy (as at December 2023) of the CoFID 2021 dataset [available here](ht
 
 `fallback_edible_fractions.csv`
 
+A lookup which assigns arbitrary edible fractions to Commodity Group (CG) categories. These edible fractions are loosely based on Hilborn et al (2018). The same FAO broad species groups are included as for the FAO (2001) dataset for macronutrient contents.
 
+`fallback_nutrients.csv`
+
+A lookup which assigns arbitrary kcal and protein content to Commodity Group (CG) categories. These edible fractions are based on the composition tables in the [FAO Food Balance Sheet Handbook (2001)](https://www.fao.org/3/x9892e/X9892e05.htm).
+
+`fao1989_edible_fractions_fixed.csv`
 
 ## License
 
