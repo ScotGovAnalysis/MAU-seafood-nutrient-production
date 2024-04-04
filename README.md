@@ -42,17 +42,33 @@ For those species that had an 'unknown substantial amount' denoted by N in CoFID
 A data file which matches all relevant fish and shellfish-related codes in the CoFID 2021 dataset that concerned raw and flesh-only products (i.e. having a Food Code starting with 16, and filtered by relevant phrases in the Food Name column) to:
 
 * three-letter FAO species code (`ERSCode`) where possible (these will have `Approximated` set to `FALSE`),
-* EUMOFA MCS category where not possible, e.g. 'Cuttlefish' in CoFID is matched the MCS category '73 - Cuttlefish' (these will have `Approximated` set to `TRUE`).
+* EUMOFA MCS category where not possible, e.g. 'Cuttlefish' in CoFID is matched the MCS category '073 - Cuttlefish' (these will have `Approximated` set to `TRUE`).
 
 In some cases, the CoFID species was matched to more than one MCS category:
-* For example, 'Seabass' in CoFID is matched to the MCS categories 'Seabass, other' and 'Seabass, European' in the absence of species information. These will also have `Approximated` set to `TRUE`.
+* For example, 'Seabass' in CoFID is matched to the MCS categories '059 - Seabass, other' and '095 - Seabass, European' in the absence of species information. These will also have `Approximated` set to `TRUE`.
 
 In some cases, the MCS category was an 'Other ...' category where the CoFID species was more specific (an 'Other ...' MCS category generally contains dozens of different species). In these cases, efforts were made to match these to specific species codes:
-* For example, 'Parrot fish' in CoFID did not have a specific match in the MCS categories, and so would fall under either '8 - Other freshwater fish' and/or '62 - Other marine fish'. We instead matched this species to various species with an English name matching 'parrotfish' or 'parrot fish'. 
-* Another example is 'Plaice', which did have relevant MCS categories (e.g. 99 - Plaice, European) but which could potentially also concern species in '30 - Plaice, other' and '62 - Other marine fish' (in the case of the scale-eye plaice).
+* For example, 'Parrot fish' in CoFID did not have a specific match in the MCS categories, and so would fall under either '008 - Other freshwater fish' and/or '062 - Other marine fish'. We instead matched this species to various species with an English name matching 'parrotfish' or 'parrot fish'. 
+* Another example is 'Plaice', which did have relevant MCS categories (e.g. 099 - Plaice, European) but which could potentially also concern species in '030 - Plaice, other' and '062 - Other marine fish' (in the case of the scale-eye plaice).
 * All of these cases also have `Approximated` set to `TRUE`.
 
-Some of these species matches and inclusions are still being revised and are subject to change (e.g. currently, 'Cod' in CoFID in only matched to the MCS category '13 - Cod' but could potentially also apply to some species in MCS categories '24 - Other groundfish' or '62 - Other marine fish'.
+Some of these species matches and inclusions are still being revised and are subject to change (e.g. currently, 'Cod' in CoFID in only matched to the MCS category '013 - Cod' but could potentially also apply to some species in MCS categories '024 - Other groundfish' or '062 - Other marine fish'.
+
+`ers_mcs_lookup.csv`
+
+This lookup was created internally within the Marine Analytical Unit and is based on EUMOFA's MCS-ERS lookup available in Annex 3 on [their metadata webpage](https://eumofa.eu/metadata) (as at May 2023). This lookup was adjusted slightly to fix certain spellings (e.g. the several species acronym was either 'spp' or 'spp.', these were harmonised to 'spp.'). In addition, some species (ERS codes) fell outwith an MCS category. For these species, a separate ISSCAAP Group to MCS lookup was constructed to match the remaining species within those broad species categories (ISSCAAP Groups) to the corresponding MCS category (usually within an 'Other ...' category). For example, species missing from EUMOFA's ERS-MCS lookup within ISSCAAP Group '11 - Carps, barbels and other cyprinids' were matched to MCS '008 - Other freshwater fish'. The dataset available here contains those adjustments, as well as the ISSCAAP Division and Group and Commodity Group (CG) and MCS categories (either from EUMOFA, or after adjustment).
+
+A full list of species codes with corresponding ISSCAAP variables can be accessed via [FAO](https://data.apps.fao.org/catalog/dataset/cwp-asfis).
+
+### Nutrients
+
+`McCance_Widdowsons_Composition_of_Foods_Integrated_Dataset_2021.xlsx`
+
+A local copy (as at December 2023) of the CoFID 2021 dataset [available here](https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid).
+
+`fallback_edible_fractions.csv`
+
+
 
 ## License
 
