@@ -1,11 +1,11 @@
-# MAU - Seafood nutrient mapping
+# MAU - Seafood nutrient production
 
 <!-- badges: start -->
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 ## Introduction 
-This repository contains the code and methodology used to match seafood species to (estimated) nutrient contents. This is used internally within the Scottish Government to estimate the total volume of macro- and micro-nutrients produced through Scottish seafood production by combining this with production volume figures.
+This repository contains the code and methodology used to match seafood species to (estimated) nutrient contents. This is used internally by the Marine Analytical Unit (MAU) within the Scottish Government to estimate the total volume of macro- and micro-nutrients produced through Scottish seafood production by combining this with production volume figures.
 
 For the purposes of this public repository, the detailed production data files used internally are not included in this repository. Instead, we simply use a list of species produced by Scotland in 2021. The nutrient content assumptions for these species could however be used in conjunction with published production data such as the [Scottish sea fisheries statistics](https://www.gov.scot/collections/sea-fisheries-statistics/), the [Scottish fish farm production survey](https://www.gov.scot/collections/scottish-fish-farm-production-surveys/), or the [Scottish shellfish farm production survey](https://www.gov.scot/collections/scottish-shellfish-farm-production-surveys/) (all published by the Scottish Government). Fisheries production data for the UK as a whole can be found on the [Marine Management Organisation's website](https://www.gov.uk/government/collections/uk-sea-fisheries-annual-statistics).
 
