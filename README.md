@@ -76,7 +76,21 @@ A lookup which assigns arbitrary edible fractions to Commodity Group (CG) catego
 
 A lookup which assigns arbitrary kcal and protein content to Commodity Group (CG) categories. These edible fractions are based on the composition tables in the [FAO Food Balance Sheet Handbook (2001)](https://www.fao.org/3/x9892e/X9892e05.htm).
 
-`fao1989_edible_fractions_fixed.csv`
+`fao1989_edible_fractions_fixed.csv` and `fao1989_nutrients_fixed.csv`
+
+Two lookups between ERS species codes and nutrient data shown in Table 1 in [FAO (1989)](https://www.fao.org/3/T0219E/T0219E00.htm) were created, one for edible fractions and one for macronutrients. Not all the information contained in Table 1 is incorporated in this CSV file:
+
+* Tentative or provisional figures, indicated by square brackets in Table 1, are taken as given and treated as any other value.
+* Where a species had more than one edible fraction or nutrient content figure (e.g. to differentiate between skinless fillet, edible flesh, and meats), these were averaged.
+* Rather than using the taxonomic codes provided in Table 2, we match the English name of the species to the name or names in the current ASFIS list. For example, 'Atlantic redfishes' in Table 1 is matched not only to 'Atlantic redfishes nei' as per the taxonomic code (17801001xx) but also to Norway redfish, Beaked redfish, and others. In some cases, Table 1 showed subspecies rather than species (e.g. Sardinops ocellata and Sardinops melanosticta). These were manually matched to species and the associated species codes (e.g. Sardinops sagax, CHP, also known as Pacific sardines). These 'fixes' introduce some new assumptions on species not originally covered in the 1989 analysis, and takes the number of (sub)species covered from 50 to 273. In the case of Pacific sardines, the different edible fractions and nutrient contents covered by the various subspecies were averaged to combine to one species figure.
+
+`robinson2022_edibe_fractions.csv` and `robinson2022_micronutrients.csv`
+
+Edible fractions and micronutrients from Robinson et al (2022) were manually matched to relevant species - either by their FAO species code (ERS), or by MCS category. The MCS category was only used in the cases of 'Shrimp, misc' and 'Shrimp, warmwater' in Robinson et al (and were matched to MCS categories '071 - Shrimp, misc' and '070 - Shrimp, warmwater' respectively).
+
+`rni_targets.csv`
+
+The recommended daily nutrient intakes for kcal, protein, fat, and nine other micronutrients. These were taken from [PHE (2016)](https://assets.publishing.service.gov.uk/media/5a749fece5274a44083b82d8/government_dietary_recommendations.pdf) and [EFSA (2010)](https://www.efsa.europa.eu/en/efsajournal/pub/1461).
 
 ## License
 
