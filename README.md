@@ -5,11 +5,11 @@
 <!-- badges: end -->
 
 ## Introduction 
-This repository contains the code and methodology used to match seafood species to (estimated) nutrient contents. This is used internally by the Marine Analytical Unit (MAU) within the Scottish Government to estimate the total volume of macro- and micro-nutrients produced through Scottish seafood production by combining this with production volume figures.
+This repository contains the code and methodology used to match seafood species to (estimated) nutrient contents. This is used internally by the Marine Analytical Unit (MAU) within the Scottish Government to estimate the total volume of macro- and micro-nutrients produced through Scottish seafood production by combining this with production volume figures. The methodology and code is published in this repository primarily to facilitate feedback and enable collaboration with academic researchers at our Main Research Providers and beyond.
 
-For the purposes of this public repository, the detailed production data files used internally are not included in this repository. Instead, we simply use a list of species produced by Scotland in 2021. The nutrient content assumptions for these species could however be used in conjunction with published production data such as the [Scottish sea fisheries statistics](https://www.gov.scot/collections/sea-fisheries-statistics/), the [Scottish fish farm production survey](https://www.gov.scot/collections/scottish-fish-farm-production-surveys/), or the [Scottish shellfish farm production survey](https://www.gov.scot/collections/scottish-shellfish-farm-production-surveys/) (all published by the Scottish Government). Fisheries production data for the UK as a whole can be found on the [Marine Management Organisation's website](https://www.gov.uk/government/collections/uk-sea-fisheries-annual-statistics).
+The detailed production data files used internally within MAU are not included in this published repository. Instead, we use a list of species produced by Scotland in 2021. The nutrient content assumptions for these species could however be used in conjunction with published production data such as the [Scottish sea fisheries statistics](https://www.gov.scot/collections/sea-fisheries-statistics/), the [Scottish fish farm production survey](https://www.gov.scot/collections/scottish-fish-farm-production-surveys/), or the [Scottish shellfish farm production survey](https://www.gov.scot/collections/scottish-shellfish-farm-production-surveys/) (all published by the Scottish Government). Fisheries production data for the UK as a whole can be found on the [Marine Management Organisation's website](https://www.gov.uk/government/collections/uk-sea-fisheries-annual-statistics).
 
-In addition, we will publish an interactive report here which provides overviews for aggregate production by species.
+In addition, we will publish an interactive report here (link tbc) which provides overviews for aggregate production by species.
 
 ## Data sources
 The conversion of live weight fish and shellfish to macro- and micro-nutrients requires estimates for (a) edible fractions and (b) nutrient contents.
@@ -94,4 +94,4 @@ The recommended daily nutrient intakes for kcal, protein, fat, and nine other mi
 
 ## License
 
-The methodology and code is published to facilitate feedback and enable collaboration with researchers at our Main Research Providers and beyond. This repository is available under the [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+This repository is available under the [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
