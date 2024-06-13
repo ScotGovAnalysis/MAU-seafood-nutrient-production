@@ -29,7 +29,7 @@ Currently, the 1989 FAO paper is used to provide macronutrient content estimates
 For the remaining 40% of production, we use 'fallback' estimates from FAO (2001), which provide average estimates for broad species groups (e.g. demersal fish, pelagic fish, crustaceans). Like with edible fractions, we are exploring other options for these species.
 
 ### Micronutrients
-For micronutrients, we primarily use CoFID (2021), which is a comprehensive and up-to-date collection of nutrient contents for a wide variety of food products consumed in the UK. While many fish and shellfish species are represented, they are not always analysed in a 'raw, flesh only' state (e.g. some are analysed in various cooked forms, or as part of complete dishes). Robinson et al (2022) was used to complement some of the missing species, which meant that in total 32 species or nearly 50% of production by volume was covered.
+For micronutrients, we primarily use CoFID (2021), which is a comprehensive collection of nutrient contents for a wide variety of food products consumed in the UK. While many fish and shellfish species are represented, they are not always analysed in a 'raw, flesh only' state (e.g. some are analysed in various cooked forms, or as part of complete dishes). For some species, more recent estimate might also be available elsewhere. Robinson et al (2022) was used to complement some of the missing species, which meant that in total 32 species or nearly 50% of production by volume was covered.
 
 Note that not every species necessarily had an estimate for the full set of micronutrients covered in CoFID (e.g. many only had a handful, and omega-3 fatty acids had the best coverage), and that in some cases the species in CoFID had to be manually matched to one or more specific species (e.g. estimates for 'shrimp' were applied to a variety of shrimp species).
 
@@ -90,7 +90,7 @@ Edible fractions and micronutrients from Robinson et al (2022) were manually mat
 
 `rni_targets.csv`
 
-The recommended daily nutrient intakes for kcal, protein, fat, and nine other micronutrients. These were taken from [PHE (2016)](https://assets.publishing.service.gov.uk/media/5a749fece5274a44083b82d8/government_dietary_recommendations.pdf) and [EFSA (2010)](https://www.efsa.europa.eu/en/efsajournal/pub/1461).
+The recommended daily nutrient intakes for kcal, protein, fat, and nine other micronutrients. These were taken from [PHE (2016)](https://assets.publishing.service.gov.uk/media/5a749fece5274a44083b82d8/government_dietary_recommendations.pdf) and, in the case of omega-3, [EFSA (2010)](https://www.efsa.europa.eu/en/efsajournal/pub/1461).
 
 ## License
 
